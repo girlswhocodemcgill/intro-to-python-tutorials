@@ -1,5 +1,5 @@
 number = input("Enter a number: ")
-digit_nums = len(number) # input are strings!
+digit_nums = len(number) # inputs are strings!
 number = int(number)
 tmp = number
 sum = 0
