@@ -29,3 +29,7 @@ A natural number greater than 1 that is not prime is called a composite number.
 But 4 is a composite number since it's factors are 1, 2, and 4.
 
 Write a program that gets an input from the user and checks if the number is prime or not.
+
+## Find Factors
+
+Write a program that gets an input from the user and returns all factors of that number.
