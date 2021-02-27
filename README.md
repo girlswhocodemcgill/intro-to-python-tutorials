@@ -1,6 +1,6 @@
-# intro-to-python-tutorials
+# intro-to-python-tutorials 
 
-This repository includes exercises for Introduction to Python workshops guided by Girls Who Code McGill. You can find the questions below. Please try to solve them by yourself before looking at the answers 👇🏼
+This repository includes exercises for Introduction to Python workshops guided by Girls Who Code McGill. You can find the questions below. Please try to solve them by yourself before checking the answers ⭐️.
 
 ## Armstrong Number
 
