@@ -44,3 +44,7 @@ In number theory, a perfect number is a positive integer that is equal to the su
 ## Permutations
 
 Write a Python program to create all possible permutations from a given collection of distinct numbers.
+
+
+## Palindrome Sequence
+Write a Python program to check whether a sequence is a palindrome.
