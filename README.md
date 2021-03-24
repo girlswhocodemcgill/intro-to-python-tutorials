@@ -45,6 +45,12 @@ In number theory, a perfect number is a positive integer that is equal to the su
 
 Write a Python program to create all possible permutations from a given collection of distinct numbers.
 
+
+## Palindrome Sequence
+
+Write a Python program to check whether a sequence is a palindrome.
+
 ## Multiples of 3 and 5
 
 Write a function that returns the sum of multiples of 3 and 5 between 0 and limit (parameter). For example, if limit is 20, it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
+
