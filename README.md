@@ -55,9 +55,13 @@ Write a Python program to check whether a sequence is a palindrome.
 
 Write a function that returns the sum of multiples of 3 and 5 between 0 and limit (parameter). For example, if limit is 20, it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
 
-
 ## Least Frequent Character in String
 Find the frequency of minimum occurring character in a string.
 
 ## Find N Largest Elements from a List
 Given a list of integers, find N largest elements assuming size of list is greater than or equal o N.
+
+## Secret Number
+
+Write a function that guesses a number chosen by the user. Assume that the number is between 1 and 100.
+(Hint: you can ask the user whether a given guess is too high or too low)
